@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.6.3)  3 JUN 2023 21:16
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.6.3)  3 JUN 2023 21:18
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1555,14 +1555,14 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  42970 strings out of 477805
- 381546,1648299 words of node,token memory allocated
- 83286 words of node memory still in use:
+ 381547,1648299 words of node,token memory allocated
+ 83265 words of node memory still in use:
    470 hlist, 48 vlist, 58 rule, 539 disc, 92 local_par, 34 math, 1969 glue, 869
- kern, 241 penalty, 57 margin_kern, 6174 glyph, 1468 attribute, 85 glue_spec, 14
+ kern, 241 penalty, 57 margin_kern, 6171 glyph, 1468 attribute, 85 glue_spec, 14
 68 attribute_list, 8 write, 435 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 2
  pdf_dest, 1 pdf_action, 338 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_
 restore nodes
-   avail lists: 1:1,2:593,3:2191,4:1357,5:2757,6:290,7:25259,8:27,9:1985,10:19,1
+   avail lists: 1:1,2:593,3:2191,4:1357,5:2757,6:290,7:25250,8:27,9:1985,10:18,1
 1:1645
  61744 multiletter control sequences out of 65536+600000
  124 fonts using 19523087 bytes

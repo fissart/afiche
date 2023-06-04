@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1685845000 "main.aux" "main.bbl" "main" 1685845004
+["bibtex main"] 1685845000 "main.aux" "main.bbl" "main" 1685845087
   "/usr/share/texlive/texmf-dist/bibtex/bst/natbib/plainnat.bst" 1233624470 26816 ffe5423d2019860bad9f54bc402fac15 ""
-  "main.aux" 1685845003 1502 893f4bb9933d063edea328cc3f879eca "lualatex"
+  "main.aux" 1685845086 1502 893f4bb9933d063edea328cc3f879eca "lualatex"
   "poster.bib" 1685841960 301 11dfcc25f95246220018b9afae677b11 ""
   (generated)
   "main.bbl"
   "main.blg"
-["lualatex"] 1685845000 "main.tex" "main.pdf" "main" 1685845004
+["lualatex"] 1685845083 "main.tex" "main.pdf" "main" 1685845087
   "/home/linux/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lato-bold.luc" 1685843744 1514696 d39ff2641de7eace266e7566064c21a5 ""
   "/home/linux/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lato-bolditalic.luc" 1685843742 1593032 0fee76948c0477352366b65b1dd5e099 ""
   "/home/linux/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lato-italic.luc" 1685843747 1586624 d97b9c527737fc87f1a63c6308dd6c8a ""
@@ -378,11 +378,11 @@
   "images/shawarma/www.jpg" 1685818672 176020 9ff29969aef9e0625911d44df793d48f ""
   "logos/TaubCS_Logo_English_Pos.eps" 1685841960 1445934 32324b58bc8b8d02f091f61a0322be0d ""
   "logos/TechnionIIT-English-3-lines.eps" 1685841960 3713842 31d588bacefc4ad02673c84f08c44984 ""
-  "main.aux" 1685845003 1502 893f4bb9933d063edea328cc3f879eca "lualatex"
+  "main.aux" 1685845086 1502 893f4bb9933d063edea328cc3f879eca "lualatex"
   "main.bbl" 1685845000 543 ded5aa5e957e08e67374855cc0a35650 "bibtex main"
-  "main.nav" 1685845003 485 8ad38786aae60a3e64b30504fae6b5b9 "lualatex"
-  "main.out" 1685845003 93 aea4b6a8ae45636c75679c2f0dfa4493 "lualatex"
-  "main.tex" 1685844960 11876 27a4bda4ca7cf2d05e2180bc2afc324e ""
+  "main.nav" 1685845086 485 8ad38786aae60a3e64b30504fae6b5b9 "lualatex"
+  "main.out" 1685845086 93 aea4b6a8ae45636c75679c2f0dfa4493 "lualatex"
+  "main.tex" 1685845082 11873 014cb5225c9684f84cf05aafcf34f7bb ""
   (generated)
   "main.aux"
   "main.log"
